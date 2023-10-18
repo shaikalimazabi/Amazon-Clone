@@ -119,7 +119,7 @@ span{
 }
 /* hero section */
 .hero-section{
-    background-image: url("images/main_image.jpg");/*only if you give height and width the image will be displayed or else it wont be displayed*/
+    background-image: url("main_image.jpg");/*only if you give height and width the image will be displayed or else it wont be displayed*/
     background-size: cover;
     height:400px;
     font-weight: bolder;
@@ -194,7 +194,7 @@ ul a{
     align-items: center;
 }
 .logo{
-    background-image: url("images/amazon_logo.png");
+    background-image: url("amazon_logo.png");
     background-size: cover;
     height:50px;
     width:100px;
